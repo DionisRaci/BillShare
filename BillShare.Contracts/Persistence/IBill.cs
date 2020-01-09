@@ -10,5 +10,6 @@ namespace BillShare.Contracts.Persistence
         string Title { get; set; }
         string Description { get; set; }
         string Friends { get; set; }
+        string Currency { get; set; }
     }
 }

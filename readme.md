@@ -31,3 +31,7 @@ Abhängigkeiten definieren.
 ## Schnittstellen definieren  
 
 ![Schnittstellen](Contracts.png)
+
+## Entitäten definieren  
+
+![Entitäten](Entities.png)
