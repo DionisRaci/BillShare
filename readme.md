@@ -26,4 +26,8 @@ Eine Klassenbibliothek für die Geschäftslogik. In diesem Projekt werden alle Ges
 Erstellen einer Konsolenanwendung zum Testen der Struktur. Projektname wir wie folgt definiert: [Domainname].ConApp  
 **Hinweis:** Im weiteren Ausbau werden noch weitere Projekte hinzugefügt (z.B.: Rest-Service).  
 + **Schritt 6**  
-Abhängigkeiten definieren.
+Abhängigkeiten definieren.  
+
+## Schnittstellen definieren  
+
+![Schnittstellen](Contracts.png)
